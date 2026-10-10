@@ -22,15 +22,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthurai, Eastern Sri Lanka**. I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN stack**, test them with **QA tools**, and use **AI-assisted tools** to build faster. I love turning real-world problems into working software and I'm always learning something new.
+> 💬 *"I turn real-world problems into working software."*
 
-| | |
-|---|---|
-| 💼 **Working at** | LMC Global Technology (Pvt) Ltd, Junior Developer |
-| 🔭 **Building** | Laravel CRM, EastUnite (Flutter marketplace app for Eastern Sri Lanka) |
-| 🌱 **Learning** | MERN Stack, Software QA / Testing |
-| 🎓 **Studying** | HND in Information Technology |
-| 📫 **Reach me** | mohammedthilsan55@gmail.com |
+Hi, I'm **Haniffa Mohammed Thilsan** 👋, a **Junior Developer at LMC Global Technology (Pvt) Ltd** based in **Sammanthurai, Eastern Sri Lanka**.
+
+I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN stack**, test them with **QA tools**, and use **AI-assisted tools** to ship faster. I'm always learning something new.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-Junior%20Developer-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20QA-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Stack-PHP%20%7C%20Laravel%20%7C%20MERN-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Studying-HND%20in%20IT-39ff14?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+### 🔭 What I'm up to
+
+- 💼 **Working at:** LMC Global Technology (Pvt) Ltd, as a Junior Developer
+- 🛠️ **Building:** Laravel CRM · EastUnite (Flutter marketplace app for Eastern Sri Lanka)
+- 🌱 **Learning:** MERN Stack · Software QA / Testing · AI-assisted development
+- 🎓 **Studying:** HND in Information Technology
+- 📫 **Reach me:** [mohammedthilsan55@gmail.com](mailto:mohammedthilsan55@gmail.com)
 
 ---
 
@@ -98,7 +111,7 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 <a href="https://github.com/thilsan-coder/LMC-Global-Technologies"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=LMC-Global-Technologies&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 <a href="https://github.com/thilsan-coder/thilha-bakes"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=thilha-bakes&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 
-<a href="https://github.com/thilsan-coder/thilsan-portfolio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=thilsan-portfolio&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
+<a href="https://github.com/thilsan-coder/student-record-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=student-record-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 <a href="https://github.com/thilsan-coder/vehicle-management-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=vehicle-management-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 
 </div>
@@ -126,16 +139,10 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 
 ---
 
-## 🆕 Latest Updated Projects
+## 📂 All Projects
 
 <!--START_SECTION:repos-->
-| Repository | Description | Language | Last updated |
-|---|---|---|---|
-| [fixmate-customer](https://github.com/thilsan-coder/fixmate-customer) | - | Dart | 2026-10-10 |
-| [HardwareHub](https://github.com/thilsan-coder/HardwareHub) | - | JavaScript | 2026-10-05 |
-| [worklink-platform](https://github.com/thilsan-coder/worklink-platform) | - | PHP | 2026-09-29 |
-| [society-management-system](https://github.com/thilsan-coder/society-management-system) | - | Blade | 2026-09-21 |
-| [LMC-Global-Technologies](https://github.com/thilsan-coder/LMC-Global-Technologies) | - | TypeScript | 2026-09-21 |
+_Loading all projects... (runs automatically every day)_
 <!--END_SECTION:repos-->
 
 ---
