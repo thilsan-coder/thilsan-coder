@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:39ff14&height=200&section=header&text=Haniffa%20Mohammed%20Thilsan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20QA&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:39ff14&height=200&section=header&text=Haniffa%20Mohammed%20Thilsan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%40%20LMC%20Global%20Technology%20%28Pvt%29%20Ltd&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hey!+Nice+to+see+you...;I+build+full-stack+web+apps;Fresh+Graduate+Seeking+Entry-Level+Roles;Let's+build+something+great+together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hey!+Nice+to+see+you...;Junior+Developer+%40+LMC+Global+Technology+%28Pvt%29+Ltd;MERN+Stack+%7C+PHP+%7C+Laravel+%7C+QA+Testing;Building+with+AI-assisted+development" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=thilsan-coder&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-39ff14?style=for-the-badge&logo=target&logoColor=black" />
+<img src="https://img.shields.io/badge/Junior%20Developer-LMC%20Global%20Technology%20%28Pvt%29%20Ltd-39ff14?style=for-the-badge&logo=briefcase&logoColor=black" />
 <img src="https://img.shields.io/badge/Location-Sammanthurai%2C%20Sri%20Lanka-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39ff14" />
 
 <br/><br/>
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **fresh graduate** and **software developer** from **Sammanthurai, Eastern Sri Lanka**. I build full-stack web apps with **PHP / MySQL** and the **MERN stack**, and I'm training in **Quality Assurance** to ship cleaner, tested code. I'm looking for an **internship or junior developer / QA role** where I can learn fast and contribute from day one.
+I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthurai, Eastern Sri Lanka**. I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN stack**, test them with **QA tools**, and use **AI-assisted tools** to build faster. I love turning real-world problems into working software and I'm always learning something new.
 
 | | |
 |---|---|
-| 🔭 **Working on** | Laravel CRM, EastUnite (Flutter marketplace app for Eastern Sri Lanka) |
+| 💼 **Working at** | LMC Global Technology (Pvt) Ltd, Junior Developer |
+| 🔭 **Building** | Laravel CRM, EastUnite (Flutter marketplace app for Eastern Sri Lanka) |
 | 🌱 **Learning** | MERN Stack, Software QA / Testing |
 | 🎓 **Studying** | HND in Information Technology |
-| 💼 **Looking for** | Internship / Entry-Level Developer or QA roles |
 | 📫 **Reach me** | mohammedthilsan55@gmail.com |
 
 ---
@@ -52,6 +52,37 @@ I'm a **fresh graduate** and **software developer** from **Sammanthurai, Eastern
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,npm" />
+
+</div>
+
+---
+
+## 🧪 Testing Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+
+</div>
+
+---
+
+## 🤖 AI Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 </div>
 
@@ -89,11 +120,7 @@ I'm a **fresh graduate** and **software developer** from **Sammanthurai, Eastern
 
 <div align="center">
 
-I'm open to **internships** and **entry-level developer / QA** opportunities. Feel free to reach out!
+Got a project, idea or opportunity? Feel free to reach out!
 
 <a href="mailto:mohammedthilsan55@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-39ff14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://linkedin.com/in/mohammed-thilsan-b002452a8"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-39ff14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=100&section=footer" width="100%" />
-
-</div>
+<a
