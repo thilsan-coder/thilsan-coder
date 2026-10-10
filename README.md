@@ -129,7 +129,13 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 ## 🆕 Latest Updated Projects
 
 <!--START_SECTION:repos-->
-_Updating automatically every day..._
+| Repository | Description | Language | Last updated |
+|---|---|---|---|
+| [fixmate-customer](https://github.com/thilsan-coder/fixmate-customer) | - | Dart | 2026-10-10 |
+| [HardwareHub](https://github.com/thilsan-coder/HardwareHub) | - | JavaScript | 2026-10-05 |
+| [worklink-platform](https://github.com/thilsan-coder/worklink-platform) | - | PHP | 2026-09-29 |
+| [society-management-system](https://github.com/thilsan-coder/society-management-system) | - | Blade | 2026-09-21 |
+| [LMC-Global-Technologies](https://github.com/thilsan-coder/LMC-Global-Technologies) | - | TypeScript | 2026-09-21 |
 <!--END_SECTION:repos-->
 
 ---
