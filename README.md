@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thilsan-coder&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://hits.sh/github.com/thilsan-coder.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=39ff14&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Junior%20Developer-LMC%20Global%20Technology%20%28Pvt%29%20Ltd-39ff14?style=for-the-badge&logo=briefcase&logoColor=black" />
 <img src="https://img.shields.io/badge/Location-Sammanthurai%2C%20Sri%20Lanka-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39ff14" />
 
@@ -93,13 +93,13 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 <div align="center">
 
 <a href="https://github.com/thilsan-coder/th-tailors"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=th-tailors&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/smartmart"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=smartmart&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
+<a href="https://github.com/thilsan-coder/HardwareHub"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=HardwareHub&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 
+<a href="https://github.com/thilsan-coder/LMC-Global-Technologies"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=LMC-Global-Technologies&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 <a href="https://github.com/thilsan-coder/thilha-bakes"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=thilha-bakes&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/praja-shakthi"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=praja-shakthi&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 
+<a href="https://github.com/thilsan-coder/thilsan-portfolio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=thilsan-portfolio&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 <a href="https://github.com/thilsan-coder/vehicle-management-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=vehicle-management-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/student-record-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=student-record-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
 
 </div>
 
@@ -116,6 +116,24 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thilsan-coder/thilsan-coder/output/github-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+## 🆕 Latest Updated Projects
+
+<!--START_SECTION:repos-->
+_Updating automatically every day..._
+<!--END_SECTION:repos-->
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -123,4 +141,8 @@ I'm a **junior developer at LMC Global Technology (Pvt) Ltd** from **Sammanthura
 Got a project, idea or opportunity? Feel free to reach out!
 
 <a href="mailto:mohammedthilsan55@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-39ff14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a
+<a href="https://linkedin.com/in/mohammed-thilsan-b002452a8"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-39ff14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=100&section=footer" width="100%" />
+
+</div>
