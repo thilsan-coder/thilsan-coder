@@ -22,28 +22,30 @@
 
 ## 👨‍💻 About Me
 
-> 💬 *"I turn real-world problems into working software."*
-
-Hi, I'm **Haniffa Mohammed Thilsan** 👋, a **Junior Developer at LMC Global Technology (Pvt) Ltd** based in **Sammanthurai, Eastern Sri Lanka**.
-
-I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN stack**, test them with **QA tools**, and use **AI-assisted tools** to ship faster. I'm always learning something new.
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Role-Junior%20Developer-39ff14?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20QA-39ff14?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Stack-PHP%20%7C%20Laravel%20%7C%20MERN-39ff14?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Studying-HND%20in%20IT-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=I+turn+real-world+problems+into+working+software.;Full-stack+%2B+QA+%2B+AI-assisted+development" alt="Quote" />
 
 </div>
 
-### 🔭 What I'm up to
+```javascript
+const thilsan = {
+  name: "Haniffa Mohammed Thilsan",
+  role: "Junior Developer @ LMC Global Technology (Pvt) Ltd",
+  location: "Sammanthurai, Eastern Sri Lanka 🇱🇰",
+  education: "HND in Information Technology",
 
-- 💼 **Working at:** LMC Global Technology (Pvt) Ltd, as a Junior Developer
-- 🛠️ **Building:** Laravel CRM · EastUnite (Flutter marketplace app for Eastern Sri Lanka)
-- 🌱 **Learning:** MERN Stack · Software QA / Testing · AI-assisted development
-- 🎓 **Studying:** HND in Information Technology
-- 📫 **Reach me:** [mohammedthilsan55@gmail.com](mailto:mohammedthilsan55@gmail.com)
+  focus: ["Full-Stack Web Development", "Software QA / Testing", "AI-assisted Development"],
+  languages: ["PHP", "JavaScript", "TypeScript", "Java", "C#", "Dart"],
+  frameworks: ["Laravel", "React", "Node.js", "Express", "Flutter", "Bootstrap", "Tailwind"],
+  databases: ["MySQL", "MongoDB"],
+
+  currentlyBuilding: ["Laravel CRM", "EastUnite (Flutter marketplace app for Eastern Sri Lanka)"],
+  currentlyLearning: ["MERN Stack", "Software QA / Testing"],
+
+  contact: "mohammedthilsan55@gmail.com",
+};
+```
 
 ---
 
@@ -101,20 +103,11 @@ I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN sta
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/thilsan-coder/th-tailors"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=th-tailors&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/HardwareHub"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=HardwareHub&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-
-<a href="https://github.com/thilsan-coder/LMC-Global-Technologies"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=LMC-Global-Technologies&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/thilha-bakes"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=thilha-bakes&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-
-<a href="https://github.com/thilsan-coder/student-record-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=student-record-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-<a href="https://github.com/thilsan-coder/vehicle-management-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thilsan-coder&repo=vehicle-management-system&theme=github_dark&hide_border=true&title_color=39ff14&icon_color=39ff14&bg_color=0d1117" /></a>
-
-</div>
+<!--START_SECTION:repos-->
+_Loading all projects... (runs automatically every day)_
+<!--END_SECTION:repos-->
 
 ---
 
@@ -136,33 +129,6 @@ I build full-stack web apps with **PHP / MySQL**, **Laravel** and the **MERN sta
 <img src="https://raw.githubusercontent.com/thilsan-coder/thilsan-coder/output/github-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
-
----
-
-## 📂 All Projects
-
-<!--START_SECTION:repos-->
-> 📦 **16 projects** · 🔄 auto-updated daily · 🔥 = updated in the last 7 days
-
-| # | Project | Description | Tech | Last updated |
-|:-:|---|---|:-:|:-:|
-| 1 | 📁 **[oonjal-chai-pos](https://github.com/thilsan-coder/oonjal-chai-pos)** 🔥 | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 12 Oct 2026 |
-| 2 | 📁 **[fixmate-customer](https://github.com/thilsan-coder/fixmate-customer)** 🔥 | — | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&labelColor=0d1117&logo=dart&logoColor=white) | 12 Oct 2026 |
-| 3 | 📁 **[HardwareHub](https://github.com/thilsan-coder/HardwareHub)** 🔥 | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 05 Oct 2026 |
-| 4 | 📁 **[worklink-platform](https://github.com/thilsan-coder/worklink-platform)** | — | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 29 Sep 2026 |
-| 5 | 📁 **[society-management-system](https://github.com/thilsan-coder/society-management-system)** | — | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&labelColor=0d1117&logo=laravel&logoColor=white) | 21 Sep 2026 |
-| 6 | 📁 **[LMC-Global-Technologies](https://github.com/thilsan-coder/LMC-Global-Technologies)** | — | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=white) | 21 Sep 2026 |
-| 7 | 📁 **[saloon-project-endu](https://github.com/thilsan-coder/saloon-project-endu)** | chack list chacking project | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&labelColor=0d1117&logo=laravel&logoColor=white) | 17 Sep 2026 |
-| 8 | 📁 **[LMC](https://github.com/thilsan-coder/LMC)** | LMC managnent | - | 15 Sep 2026 |
-| 9 | 📁 **[th-tailors](https://github.com/thilsan-coder/th-tailors)** | Tailor Shop Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 15 Sep 2026 |
-| 10 | 📁 **[thilsan-portfolio](https://github.com/thilsan-coder/thilsan-portfolio)** | — | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white) | 20 Aug 2026 |
-| 11 | 📁 **[th-apple-world](https://github.com/thilsan-coder/th-apple-world)** | iPhone E-Commerce Website - HTML, CSS, JavaScript | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&labelColor=0d1117&logo=css3&logoColor=white) | 13 Jun 2026 |
-| 12 | 📁 **[student-record-system](https://github.com/thilsan-coder/student-record-system)** | Student Record Management System - PHP, MySQL | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
-| 13 | 📁 **[vehicle-management-system](https://github.com/thilsan-coder/vehicle-management-system)** | Vehicle Fleet Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
-| 14 | 📁 **[praja-shakthi](https://github.com/thilsan-coder/praja-shakthi)** | Community Organization Management System - PHP, MySQL | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
-| 15 | 📁 **[smartmart](https://github.com/thilsan-coder/smartmart)** | E-Commerce & Supermarket Management System - PHP, MySQL, CSS | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
-| 16 | 📁 **[thilha-bakes](https://github.com/thilsan-coder/thilha-bakes)** | Bakery Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
-<!--END_SECTION:repos-->
 
 ---
 
