@@ -106,7 +106,26 @@ const thilsan = {
 ## 🚀 Projects
 
 <!--START_SECTION:repos-->
-_Loading all projects... (runs automatically every day)_
+> 📦 **16 projects** · 🔄 auto-updated daily · 🔥 = updated in the last 7 days
+
+| # | Project | Description | Tech | Last updated |
+|:-:|---|---|:-:|:-:|
+| 1 | 📁 **[fixmate-customer](https://github.com/thilsan-coder/fixmate-customer)** 🔥 | — | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&labelColor=0d1117&logo=dart&logoColor=white) | 13 Oct 2026 |
+| 2 | 📁 **[oonjal-chai-pos](https://github.com/thilsan-coder/oonjal-chai-pos)** 🔥 | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 12 Oct 2026 |
+| 3 | 📁 **[HardwareHub](https://github.com/thilsan-coder/HardwareHub)** | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 05 Oct 2026 |
+| 4 | 📁 **[worklink-platform](https://github.com/thilsan-coder/worklink-platform)** | — | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 29 Sep 2026 |
+| 5 | 📁 **[society-management-system](https://github.com/thilsan-coder/society-management-system)** | — | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&labelColor=0d1117&logo=laravel&logoColor=white) | 21 Sep 2026 |
+| 6 | 📁 **[LMC-Global-Technologies](https://github.com/thilsan-coder/LMC-Global-Technologies)** | — | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=white) | 21 Sep 2026 |
+| 7 | 📁 **[saloon-project-endu](https://github.com/thilsan-coder/saloon-project-endu)** | chack list chacking project | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&labelColor=0d1117&logo=laravel&logoColor=white) | 17 Sep 2026 |
+| 8 | 📁 **[LMC](https://github.com/thilsan-coder/LMC)** | LMC managnent | - | 15 Sep 2026 |
+| 9 | 📁 **[th-tailors](https://github.com/thilsan-coder/th-tailors)** | Tailor Shop Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 15 Sep 2026 |
+| 10 | 📁 **[thilsan-portfolio](https://github.com/thilsan-coder/thilsan-portfolio)** | — | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white) | 20 Aug 2026 |
+| 11 | 📁 **[th-apple-world](https://github.com/thilsan-coder/th-apple-world)** | iPhone E-Commerce Website - HTML, CSS, JavaScript | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&labelColor=0d1117&logo=css3&logoColor=white) | 13 Jun 2026 |
+| 12 | 📁 **[student-record-system](https://github.com/thilsan-coder/student-record-system)** | Student Record Management System - PHP, MySQL | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
+| 13 | 📁 **[vehicle-management-system](https://github.com/thilsan-coder/vehicle-management-system)** | Vehicle Fleet Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
+| 14 | 📁 **[praja-shakthi](https://github.com/thilsan-coder/praja-shakthi)** | Community Organization Management System - PHP, MySQL | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
+| 15 | 📁 **[smartmart](https://github.com/thilsan-coder/smartmart)** | E-Commerce & Supermarket Management System - PHP, MySQL, CSS | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
+| 16 | 📁 **[thilha-bakes](https://github.com/thilsan-coder/thilha-bakes)** | Bakery Management System - PHP, MySQL, Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 13 Jun 2026 |
 <!--END_SECTION:repos-->
 
 ---
