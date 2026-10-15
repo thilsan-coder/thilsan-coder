@@ -110,8 +110,8 @@ const thilsan = {
 
 | # | Project | Description | Tech | Last updated |
 |:-:|---|---|:-:|:-:|
-| 1 | 📁 **[fixmate-customer](https://github.com/thilsan-coder/fixmate-customer)** 🔥 | — | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&labelColor=0d1117&logo=dart&logoColor=white) | 13 Oct 2026 |
-| 2 | 📁 **[oonjal-chai-pos](https://github.com/thilsan-coder/oonjal-chai-pos)** 🔥 | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 12 Oct 2026 |
+| 1 | 📁 **[chai](https://github.com/thilsan-coder/chai)** 🔥 | — | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=white) | 14 Oct 2026 |
+| 2 | 📁 **[fixmate-customer](https://github.com/thilsan-coder/fixmate-customer)** 🔥 | — | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&labelColor=0d1117&logo=dart&logoColor=white) | 13 Oct 2026 |
 | 3 | 📁 **[HardwareHub](https://github.com/thilsan-coder/HardwareHub)** | — | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black) | 05 Oct 2026 |
 | 4 | 📁 **[worklink-platform](https://github.com/thilsan-coder/worklink-platform)** | — | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117&logo=php&logoColor=white) | 29 Sep 2026 |
 | 5 | 📁 **[society-management-system](https://github.com/thilsan-coder/society-management-system)** | — | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&labelColor=0d1117&logo=laravel&logoColor=white) | 21 Sep 2026 |
