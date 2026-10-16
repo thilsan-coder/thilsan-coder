@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:39ff14&height=200&section=header&text=Haniffa%20Mohammed%20Thilsan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%40%20LMC%20Global%20Technology%20%28Pvt%29%20Ltd&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d1c,100:39ff14&height=220&section=header&text=Haniffa%20Mohammed%20Thilsan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Junior%20Developer%20%40%20LMC%20Global%20Technology%20%28Pvt%29%20Ltd&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hey!+Nice+to+see+you...;Junior+Developer+%40+LMC+Global+Technology+%28Pvt%29+Ltd;MERN+Stack+%7C+PHP+%7C+Laravel+%7C+QA+Testing;Building+with+AI-assisted+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hey!+Nice+to+see+you...+%F0%9F%91%8B;Full-Stack+Developer+%7C+PHP+%7C+Laravel+%7C+MERN;QA+Testing+%2B+AI-assisted+development;Let's+build+something+great+together" alt="Typing SVG" />
 
 <br/>
 
@@ -18,36 +18,42 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 👨‍💻 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=620&lines=I+turn+real-world+problems+into+working+software.;Full-stack+%2B+QA+%2B+AI-assisted+development" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=I+turn+real-world+problems+into+working+software.;Always+learning%2C+always+building." alt="Quote" />
 
 </div>
 
-```javascript
-const thilsan = {
-  name: "Haniffa Mohammed Thilsan",
-  role: "Junior Developer @ LMC Global Technology (Pvt) Ltd",
-  location: "Sammanthurai, Eastern Sri Lanka 🇱🇰",
-  education: "HND in Information Technology",
+```bash
+thilsan@dev:~$ whoami
+Haniffa Mohammed Thilsan
 
-  focus: ["Full-Stack Web Development", "Software QA / Testing", "AI-assisted Development"],
-  languages: ["PHP", "JavaScript", "TypeScript", "Java", "C#", "Dart"],
-  frameworks: ["Laravel", "React", "Node.js", "Express", "Flutter", "Bootstrap", "Tailwind"],
-  databases: ["MySQL", "MongoDB"],
+thilsan@dev:~$ cat profile.txt
+Role       : Junior Developer @ LMC Global Technology (Pvt) Ltd
+Location   : Sammanthurai, Eastern Sri Lanka 🇱🇰
+Education  : HND in Information Technology
+Focus      : Full-Stack Web · Software QA / Testing · AI-assisted Development
 
-  currentlyBuilding: ["Laravel CRM", "EastUnite (Flutter marketplace app for Eastern Sri Lanka)"],
-  currentlyLearning: ["MERN Stack", "Software QA / Testing"],
+thilsan@dev:~$ ls stack/
+languages/    PHP  JavaScript  TypeScript  Java  C#  Dart
+frameworks/   Laravel  React  Node.js  Express  Flutter  Bootstrap  Tailwind
+databases/    MySQL  MongoDB
 
-  contact: "mohammedthilsan55@gmail.com",
-};
+thilsan@dev:~$ tail now.log
+[BUILDING]  Laravel CRM
+[BUILDING]  EastUnite - Flutter marketplace app for Eastern Sri Lanka
+[LEARNING]  MERN Stack
+[LEARNING]  Software QA / Testing
+
+thilsan@dev:~$ echo $CONTACT
+mohammedthilsan55@gmail.com
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -70,7 +76,7 @@ const thilsan = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 🧪 Testing Tools
 
@@ -86,7 +92,7 @@ const thilsan = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 🤖 AI Tools
 
@@ -101,7 +107,7 @@ const thilsan = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -112,7 +118,7 @@ const thilsan = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -122,7 +128,7 @@ const thilsan = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3&section=header" width="100%" />
 
 ## 🤝 Let's Connect
 
@@ -133,6 +139,6 @@ Got a project, idea or opportunity? Feel free to reach out!
 <a href="mailto:mohammedthilsan55@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-39ff14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://linkedin.com/in/mohammed-thilsan-b002452a8"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-39ff14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d1c,100:39ff14&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>
